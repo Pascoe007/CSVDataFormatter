@@ -27,7 +27,6 @@
 <br />
 <p align="center">
   <a href="https://https://github.com/Pascoe007/CSVDataFormatter">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">CSVDataFormatter</h3>
@@ -79,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](images/logo.png)
+<img src="images\ScreenShot.png" alt="Logo" width="80" height="80">
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
