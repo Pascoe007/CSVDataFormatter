@@ -77,8 +77,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="images\ScreenShot.png" alt="Logo" width="500" height="300">
+<p align="center">
+  <img src="images\ScreenShot.png" alt="Logo" width="500" height="300">
+</p>
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
