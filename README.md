@@ -78,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images\ScreenShot.png" alt="Logo" width="80" height="80">
+<img src="images\ScreenShot.png" alt="Logo" width="500" height="300">
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
