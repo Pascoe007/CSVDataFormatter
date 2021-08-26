@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
+*** Pascoe007, CSVDataFormatter, @JacobPascoe2, , CSV Data Formatter, project_description
 -->
 
 
@@ -29,7 +29,7 @@
   <a href="https://https://github.com/Pascoe007/CSVDataFormatter">
   </a>
 
-  <h3 align="center">CSVDataFormatter</h3>
+  <h3 align="center">CSV Data Formatter</h3>
 
   <p align="center">
     This Application is desinged to be able to edit multiple rows in a CSV file using Pandas and python scripts
@@ -81,16 +81,15 @@
   <img src="images\ScreenShot.png" alt="Logo" width="500" height="300">
 </p>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+This project is a GUI that is desinged to be used with large CSV files to formatt and filter all of the data down to just the data you need,
+this project used Pandas as the main library for edited the data and wxPython for the gui
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Python]()
+* [Pandas]()
+* [wxPyhton]()
 
 
 
@@ -111,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Pascoe007/CSVDataFormatter.git
    ```
 2. Install NPM packages
    ```sh
@@ -132,7 +131,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Pascoe007/CSVDataFormatter/issues) for a list of proposed features (and known issues).
 
 
 
@@ -159,9 +158,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@@JacobPascoe2](https://twitter.com/@JacobPascoe2) - 
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Pascoe007/CSVDataFormatter](https://github.com/Pascoe007/CSVDataFormatter)
 
 
 
@@ -179,4 +178,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/Pascoe007
